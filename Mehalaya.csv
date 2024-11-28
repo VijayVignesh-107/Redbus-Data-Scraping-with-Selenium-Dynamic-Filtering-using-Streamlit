@@ -1,0 +1,36 @@
+Service_Name,Route_name,Route_link,Bus_names,Bus_type,Departing_time,Duration,Reaching_time,Star_rating,Price,Seat_availablity
+Mehalaya,Guwahati to Shillong,https://www.redbus.in/bus-tickets/guwahati-to-shillong,Meghalaya Transport Corporation(MTC) - 163300,Force Motors Non A/C Seater Executive (2+2),07:00,03h 00m,10:00,4.4,200.0,9
+Mehalaya,Guwahati to Shillong,https://www.redbus.in/bus-tickets/guwahati-to-shillong,Meghalaya Transport Corporation(MTC) - 175777,Force Motors Non A/C Seater Executive (2+2),12:00,03h 00m,15:00,4.5,200.0,24
+Mehalaya,Guwahati to Shillong,https://www.redbus.in/bus-tickets/guwahati-to-shillong,Upasana Travels (Under ASTC),Non AC Seater (2+2),00:05,14h 25m,14:30,2.4,300.0,19
+Mehalaya,Guwahati to Shillong,https://www.redbus.in/bus-tickets/guwahati-to-shillong,NETWORK TRAVELS,Bharat Benz A/C Sleeper (2+1),05:10,02h 30m,07:40,2.5,400.0,21
+Mehalaya,Shillong to Guwahati,https://www.redbus.in/bus-tickets/shillong-to-guwahati,Meghalaya Transport Corporation(MTC) - 169753,Force Motors Non A/C Seater Executive (2+2),07:00,02h 30m,09:30,4.0,200.0,21
+Mehalaya,Shillong to Guwahati,https://www.redbus.in/bus-tickets/shillong-to-guwahati,Meghalaya Transport Corporation(MTC) - 172215,Force Motors Non A/C Seater Executive (2+2),15:00,03h 00m,18:00,4.3,200.0,24
+Mehalaya,Shillong to Guwahati,https://www.redbus.in/bus-tickets/shillong-to-guwahati,Upasana Travels (Under ASTC),Non AC Seater (2+2),07:00,04h 00m,11:00,4.2,290.0,20
+Mehalaya,Shillong to Guwahati,https://www.redbus.in/bus-tickets/shillong-to-guwahati,RAYAN TRAVELS,Non A/C Seater / Sleeper (2+1),16:00,02h 30m,18:30,3.7,350.0,38
+Mehalaya,Tura (Meghalaya) to Shillong,https://www.redbus.in/bus-tickets/tura-meghalaya-to-shillong,Meghalaya Transport Corporation(MTC) - 163370,Tata Non A/C Seater Executive Luxury (2+2),18:30,09h 30m,04:00,3.5,517.0,31
+Mehalaya,Tura (Meghalaya) to Shillong,https://www.redbus.in/bus-tickets/tura-meghalaya-to-shillong,NETWORK TRAVELS,NON A/C Seater (2+2),19:00,13h 00m,08:00,3.3,650.0,39
+Mehalaya,Shillong to Tura (Meghalaya),https://www.redbus.in/bus-tickets/shillong-to-tura-meghalaya,Meghalaya Transport Corporation(MTC) - 163306,Tata Non A/C Seater Executive Luxury (2+2),17:00,10h 30m,03:30,3.2,517.0,28
+Mehalaya,Shillong to Tura (Meghalaya),https://www.redbus.in/bus-tickets/shillong-to-tura-meghalaya,NETWORK TRAVELS,NON A/C Seater (2+2),16:30,13h 30m,06:00,3.5,650.0,40
+Mehalaya,Shillong to Williamnagar (Meghalaya),https://www.redbus.in/bus-tickets/shillong-to-williamnagar-meghalaya,Meghalaya Transport Corporation(MTC) - 163306,Tata Non A/C Seater Executive Luxury (2+2),17:00,12h 00m,05:00,3.5,581.0,35
+Mehalaya,Williamnagar (Meghalaya) to Shillong,https://www.redbus.in/bus-tickets/williamnagar-meghalaya-to-shillong,Meghalaya Transport Corporation(MTC) - 163370,Tata Non A/C Seater Executive Luxury (2+2),17:00,11h 00m,04:00,3.2,581.0,35
+Mehalaya,Shillong to Silchar,https://www.redbus.in/bus-tickets/shillong-to-silchar,Meghalaya Transport Corporation(MTC) - 163308,Tata Non A/C Seater Executive Luxury (2+2),19:15,09h 45m,05:00,2.9,384.0,28
+Mehalaya,Shillong to Silchar,https://www.redbus.in/bus-tickets/shillong-to-silchar,Jagannath Travels and Tours Pvt. Ltd.,NON A/C Seater Push Back (2+1),09:00,08h 30m,17:30,2.0,1000.0,35
+Mehalaya,Phulbari to Shillong,https://www.redbus.in/bus-tickets/phulbari-to-shillong,Meghalaya Transport Corporation(MTC) - 163837,Tata Non A/C Seater Executive Luxury (2+2),05:30,10h 30m,16:00,3.9,507.0,32
+Mehalaya,Shillong to Phulbari,https://www.redbus.in/bus-tickets/shillong-to-phulbari,Meghalaya Transport Corporation(MTC) - 163836,Tata Non A/C Seater Executive Luxury (2+2),06:30,09h 30m,16:00,3.2,507.0,32
+Mehalaya,Shillong to Karimganj,https://www.redbus.in/bus-tickets/shillong-to-karimganj,NETWORK TRAVELS,NON A/C Seater Push Back (2+1),20:00,08h 30m,04:30,3.8,650.0,34
+Mehalaya,Silchar to Shillong,https://www.redbus.in/bus-tickets/silchar-to-shillong,Assam State Transport Corporation (ASTC) - 153994,NON A/C Seater Push Back (2+1),17:00,11h 00m,04:00,3.4,408.0,26
+Mehalaya,Silchar to Shillong,https://www.redbus.in/bus-tickets/silchar-to-shillong,BLUE HILL TRAVELS INDIA LIMITED,NON A/C Seater (2+1),19:15,08h 30m,03:45,3.4,650.0,31
+Mehalaya,Silchar to Shillong,https://www.redbus.in/bus-tickets/silchar-to-shillong,Arhans Tour And Travels,Non AC Seater (2+1),18:45,08h 15m,03:00,1.5,618.0,35
+Mehalaya,Silchar to Shillong,https://www.redbus.in/bus-tickets/silchar-to-shillong,Bholanath Travels,NON AC Seater / Sleeper 2+1,19:30,08h 00m,03:30,2.3,650.0,48
+Mehalaya,Silchar to Shillong,https://www.redbus.in/bus-tickets/silchar-to-shillong,AR Travels,Non AC Seater (2+2),19:30,09h 00m,04:30,1.3,484.0,40
+Mehalaya,Karimganj to Shillong,https://www.redbus.in/bus-tickets/karimganj-to-shillong,Meghalaya Transport Corporation(MTC) - 163361,Tata Non A/C Seater Executive Luxury (2+2),18:00,09h 30m,03:30,2.7,371.0,18
+Mehalaya,Shillong to Ramkrishnanagar,https://www.redbus.in/bus-tickets/shillong-to-ramkrishnanagar,Meghalaya Transport Corporation(MTC) - 163369,Tata Non A/C Seater Executive Luxury (2+2),19:15,10h 15m,05:30,3.1,425.0,32
+Mehalaya,Shillong to Hailakandi,https://www.redbus.in/bus-tickets/shillong-to-hailakandi,Meghalaya Transport Corporation(MTC) - 163369,Tata Non A/C Seater Executive Luxury (2+2),19:15,09h 15m,04:30,3.7,384.0,32
+Mehalaya,Shillong to Hailakandi,https://www.redbus.in/bus-tickets/shillong-to-hailakandi,AR Travels,Non AC Seater (2+2),23:00,06h 50m,05:50,1.3,550.0,40
+Mehalaya,Hailakandi to Shillong,https://www.redbus.in/bus-tickets/hailakandi-to-shillong,Meghalaya Transport Corporation(MTC) - 163368,Tata Non A/C Seater Executive Luxury (2+2),18:00,10h 00m,04:00,3.6,384.0,4
+Mehalaya,Hailakandi to Shillong,https://www.redbus.in/bus-tickets/hailakandi-to-shillong,AR Travels,Non AC Seater (2+2),17:30,11h 00m,04:30,1.3,600.0,40
+Mehalaya,Tikrikilla to Shillong,https://www.redbus.in/bus-tickets/tikrikilla-to-shillong,Meghalaya Transport Corporation(MTC) - 163837,Tata Non A/C Seater Executive Luxury (2+2),06:10,09h 50m,16:00,3.7,460.0,32
+Mehalaya,Ramkrishnanagar to Shillong,https://www.redbus.in/bus-tickets/ramkrishnanagar-to-shillong,Meghalaya Transport Corporation(MTC) - 163368,Tata Non A/C Seater Executive Luxury (2+2),17:00,11h 00m,04:00,3.5,425.0,34
+Mehalaya,Nongpoh to Guwahati,https://www.redbus.in/bus-tickets/nongpoh-to-guwahati,Meghalaya Transport Corporation(MTC) - 169753,Force Motors Non A/C Seater Executive (2+2),08:15,01h 15m,09:30,3.7,104.0,25
+Mehalaya,Nongpoh to Guwahati,https://www.redbus.in/bus-tickets/nongpoh-to-guwahati,Meghalaya Transport Corporation(MTC) - 172215,Force Motors Non A/C Seater Executive (2+2),16:15,01h 45m,18:00,3.7,104.0,25
+Mehalaya,Agia (Assam) to Shillong,https://www.redbus.in/bus-tickets/agia-to-shillong,Meghalaya Transport Corporation(MTC) - 163837,Tata Non A/C Seater Executive Luxury (2+2),07:00,09h 00m,16:00,3.7,374.0,32
