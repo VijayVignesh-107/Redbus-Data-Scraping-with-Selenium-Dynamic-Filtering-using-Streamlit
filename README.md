@@ -31,3 +31,5 @@ For installing selenium: Pip install streamlit
 
 **Information About the files updated in the GitHub:**
 
+I have scraped all the 10 states individually, and saved files individually using .ipynb extension. These 10 files create 10 individual  csv files of the scrapped data. And using Final_bus_compililation.ipynb, I’ve collaborated all csv files into individual files and pushed the data in SQL database.
+Now for streamlit application, I’ve created Project_redbus.py, I have connected the SQL database and used python and streamlit to display get the input from the user in the form of UI and display the result in the table format.
