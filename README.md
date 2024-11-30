@@ -37,11 +37,19 @@ Now for streamlit application, I’ve created Project_redbus.py, I have connecte
 ![image](https://github.com/user-attachments/assets/ea6993d0-18c9-4d75-923a-fc5dfd786473)
 
 The UI part contains 2 pages. Page 1 allows user to select the Filters for the bus service.
+
 Box 1, Allows users to select the Bus service based on the state. I have designed this based upon the Radio Button to get the input from the user. Once the user selects, the data of the relevant services will be accessed using SQL connection. SO the users will be able to select the filters for the specified services.
+
 Box 2, Displays the welcome sign for the each transport service corporation. This changes Dynamically for each services users select.
+
 Box 3, Gives us 2 tabs (Select the Options, View the uses). Select the options allows user to select the options for the buses based on the filters. 
+
 Box 4, allows user to select the filters for the buses for the choice. It is not necessary that users needs to select every option, even if the user selects route all the bus details will be visible and user can further use filters to narrow down the selection.
+
 Now if the user have selected all required filters, From Box 3, user needs to select View the buses option.
-User can click on Load the Buses Option to view the available buses.
+
+![image](https://github.com/user-attachments/assets/2e61e217-476a-424b-884a-cbe82045d47b)
+
+User can click on Load the Buses Option to view the available buses. If No buses are avialble for the selection, an warning will be displayed for the user.
 
 
