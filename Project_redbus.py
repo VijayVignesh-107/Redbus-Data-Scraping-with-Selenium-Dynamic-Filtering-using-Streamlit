@@ -96,7 +96,10 @@ if selected_service and selected_service in service:
             query = f"SELECT bus_name, bus_type, departing_time, duration, reaching_time, star_rating, price, seats_available FROM public.bus_routes WHERE route_name = '{selected_route}'"
             
             if selected_type and selected_type != None:
-                query += f" AND bus_type IN {selected_type}"
+                if len(selected_type) == 1:
+                    query += f" AND bus_type = '{selected_type[0]}'"
+                else:
+                    query += f" AND bus_type IN {selected_type}"
             if selected_rating:
                 query += f" AND star_rating >= {selected_rating}"
             if selected_price:
@@ -127,6 +130,7 @@ if selected_service and selected_service in service:
 
             result = pd.read_sql(query, conn)
             if not result.empty:
+                st.snow()
                 st.dataframe(result)
             else:
                 st.warning("No buses available for the selected Filters.", icon="⚠️")
